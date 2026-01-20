@@ -13,10 +13,10 @@ cat readme
 
 
 ## Concepts Learned
-SSH authentication
-Listing directory contents
-Reading text files using cat
+- SSH authentication
+- Listing directory contents
+- Reading text files using cat
 
 ## Evidence
-See screenshot: screenshots/level00.png
-                screenshots/level0.png
+See screenshot: - screenshots/level00.png
+                - screenshots/level0.png
