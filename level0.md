@@ -18,5 +18,6 @@ cat readme
 - Reading text files using cat
 
 ## Evidence
-See screenshot: - screenshots/level00.png
-                - screenshots/level0.png
+See screenshot: 
+- screenshots/level00.png
+- screenshots/level0.png
