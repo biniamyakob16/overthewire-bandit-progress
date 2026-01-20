@@ -19,5 +19,6 @@ cat readme
 
 ## Evidence
 See screenshot: 
-- screenshots/level00.png
-- screenshots/level0.png
+- [screenshots/level00.png](screenshots/level00.png)
+- [screenshots/level0.png](screenshots/level0.png)
+
