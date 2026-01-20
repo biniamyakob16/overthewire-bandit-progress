@@ -1,6 +1,4 @@
 # overthewire-bandit-progress
-My first repository on GitHub
-
 
 This repository documents my hands-on practice with the **OverTheWire Bandit wargame**, focused on building **Linux system administration fundamentals**.
 
