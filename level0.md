@@ -9,6 +9,8 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 pwd
 ls
 cat readme
+```
+
 
 ## Concepts Learned
 SSH authentication
