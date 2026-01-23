@@ -18,7 +18,7 @@ cat -- "special-file-name"
 
 ## Evidence
 See screenshot: 
-- [screenshots/level2.png](screenshots/leve2.png)
+- [screenshots/level2.png](screenshots/level2.png)
 
 
 
