@@ -11,7 +11,8 @@ This repository documents my hands-on practice with the **OverTheWire Bandit war
 ## Progress
 - ✅ Level 0
 - ✅ Level 1
-- ⏳ Level 2+
+- ✅ Level 2
+- ⏳ Level 3+
 
 ## Notes
 Passwords are intentionally excluded.  
