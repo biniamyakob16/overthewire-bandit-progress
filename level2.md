@@ -5,7 +5,7 @@ Locate and read a file with spaces in its filename to obtain the password for th
 
 ## Commands Used
 ```bash
-ssh bandit1@bandit.labs.overthewire.org -p 2220
+ssh bandit2@bandit.labs.overthewire.org -p 2220
 pwd
 ls
 cat -- "special-file-name"
