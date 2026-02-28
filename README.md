@@ -20,7 +20,8 @@ This repository documents my hands-on practice with the **OverTheWire Bandit war
 - ✅ Level 8
 - ✅ Level 9
 - ✅ Level 10
-- ⏳ Level 11+
+- ✅ Level 11
+- ⏳ Level 12+
 
 ## Notes
 Passwords are intentionally excluded.  
