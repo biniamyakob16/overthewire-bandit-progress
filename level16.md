@@ -38,11 +38,11 @@ ssh -i bandit17key.txt bandit17@bandit.labs.overthewire.org -p 2220
 
 ## Evidence
 See screenshot: 
-- [screenshots/level16-#1-nmap-scanning.png](screenshots/level16-#1-nmap-scanning.png)
-- [screenshots/level16-#2-identifying-ssl-tls-ports.png](screenshots/level16-#2-identifying-ssl-tls-ports.png)
-- [screenshots/level16-#3-ssh-private-key-detection.png](screenshots/level16-#3-ssh-private-key-detection.png)
-- [screenshots/level16-#4-ssh-private-key-login.png](screenshots/level16-#4-ssh-private-key-login.png)
-- [screenshots/level16-#5-successful-ssh-private-key-login.png](screenshots/level16-#5-successful-ssh-private-key-login.png)
+- [screenshots/level16-1-nmap-scanning.png](screenshots/level16-1-nmap-scanning.png)
+- [screenshots/level16-2-identifying-ssl-tls-ports.png](screenshots/level16-2-identifying-ssl-tls-ports.png)
+- [screenshots/level16-3-ssh-private-key-detection.png](screenshots/level16-3-ssh-private-key-detection.png)
+- [screenshots/level16-4-ssh-private-key-login.png](screenshots/level16-4-ssh-private-key-login.png)
+- [screenshots/level16-5-successful-ssh-private-key-login.png](screenshots/level16-5-successful-ssh-private-key-login.png)
 
 
 
