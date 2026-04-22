@@ -34,9 +34,9 @@ The choice of algorithm depends on whether storage efficiency or performance is 
 ## Evidence
 See screenshot: 
 
-- [screenshots/bzip2 compression.jpg](screenshots/bzip2 compression.jpg)
-- [screenshots/xz compression.jpg](screenshots/xz compression.jpg)
-- [screenshots/gzip compression.jpg](screenshots/gzip compression.jpg)
+- [screenshots/bzip2-compression.jpg](screenshots/bzip2-compression.jpg)
+- [screenshots/xz-compression.jpg](screenshots/xz-compression.jpg)
+- [screenshots/gzip-compression.jpg](screenshots/gzip-compression.jpg)
 
 
 
