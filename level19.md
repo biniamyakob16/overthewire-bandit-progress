@@ -24,7 +24,7 @@ ls -l bandit20-do
 
 ## Key Insight
 - The password file `/etc/bandit_pass/bandit20` is not readable by bandit19.
-- However, the "bandit20-do" binary runs commands with the privileges of `bandit20`
+- However, the `bandit20-do` binary runs commands with the privileges of `bandit20`
 - By passing `cat /etc/bandit_pass/bandit20` as an argument, the file is read with the correct permissions.
 
 ## Evidence
