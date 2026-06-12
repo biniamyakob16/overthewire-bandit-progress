@@ -1,4 +1,4 @@
-# overthewire-bandit-progress
+# overthewire-bandit-linux-cli-labs
 
 This repository documents my hands-on practice with the **OverTheWire Bandit wargame**, focused on building **Linux CLI skills**.
 
