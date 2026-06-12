@@ -1,6 +1,6 @@
 # overthewire-bandit-progress
 
-This repository documents my hands-on practice with the **OverTheWire Bandit wargame**, focused on building **Linux CLI skill**.
+This repository documents my hands-on practice with the **OverTheWire Bandit wargame**, focused on building **Linux CLI skills**.
 
 ## Skills Practiced
 - SSH remote login
